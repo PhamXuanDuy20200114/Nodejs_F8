@@ -1,0 +1,9 @@
+// File này để đặt biến trong việc css
+//Cú pháp: 
+//          $tên biên: giá trị biến;
+//Để import vào file scss:
+//          @import 'variables'
+
+$primary_color: green;
+$text_color: #333;
+$blue_color: rgb(53, 160, 195);
